@@ -1,0 +1,7 @@
+*.pyc
+*.map
+*.mo
+*.DS_Store
+.idea/*
+db.sqlite3
+s
